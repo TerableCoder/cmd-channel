@@ -1,13 +1,13 @@
 {
 	"disableAutoUpdate": false,
-	"name": "cmd-command",
+	"name": "cmd-channel",
 	"author": "Onimuru / TerableCoder",
 	"description": "Switch channels and skip the loading screen.",
 	"version": "3.0",
 	"options": {
-		"niceName": "cmd-command",
+		"niceName": "cmd-channel",
 		"reloadable": false
 	},
-	"servers": ["https://raw.githubusercontent.com/TerableCoder/cmd-command/master/"],
-    "supportUrl": "https://github.com/TerableCoder/cmd-command/issues"
+	"servers": ["https://raw.githubusercontent.com/TerableCoder/cmd-channel/master/"],
+    "supportUrl": "https://github.com/TerableCoder/cmd-channel/issues"
 }
